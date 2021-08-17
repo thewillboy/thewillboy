@@ -1,4 +1,10 @@
-### Hi there 👋
+### Never obsolete ###
+
+<div>
+  <a href="https://github.com/thewillboy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewillboy&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewillboy&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width:100%;">
+</a></div>
 
 <!--
 **thewillboy/thewillboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
